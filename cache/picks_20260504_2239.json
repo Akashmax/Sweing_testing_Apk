@@ -1,0 +1,196 @@
+{
+  "ts": "2026-05-04T22:39:03",
+  "raw_count": 494,
+  "picks": [
+    {
+      "symbol": "EQUAL50ADD",
+      "name": "DSP Nifty 50 Equal Weight ETF",
+      "scan": "ema20_pullback",
+      "price": 337.67999267578125,
+      "entry": 337.68,
+      "stop_loss": 330.58,
+      "target_low": 354.56,
+      "target_high": 388.33,
+      "rr": 2.38,
+      "score": 76,
+      "rsi": 56.2,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 56 in healthy momentum zone",
+        "Volume 2.4x avg \u2014 strong accumulation"
+      ]
+    },
+    {
+      "symbol": "POWERGRID",
+      "name": "Power Grid Corporation Of India Limited",
+      "scan": "ema20_pullback+vcp_squeeze",
+      "price": 319.04998779296875,
+      "entry": 319.05,
+      "stop_loss": 312.43,
+      "target_low": 335.0,
+      "target_high": 366.91,
+      "rr": 2.41,
+      "score": 66,
+      "rsi": 64.1,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 64 in healthy momentum zone",
+        "Confirmed across 2 scans"
+      ]
+    },
+    {
+      "symbol": "ICICIB22",
+      "name": "Bharat 22 ETF",
+      "scan": "ema20_pullback",
+      "price": 124.7300033569336,
+      "entry": 124.73,
+      "stop_loss": 122.55,
+      "target_low": 130.97,
+      "target_high": 143.44,
+      "rr": 2.87,
+      "score": 65,
+      "rsi": 57.0,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 57 in healthy momentum zone"
+      ]
+    },
+    {
+      "symbol": "TATASTEEL",
+      "name": "Tata Steel Limited",
+      "scan": "ema20_pullback",
+      "price": 212.24000549316406,
+      "entry": 212.24,
+      "stop_loss": 207.56,
+      "target_low": 222.85,
+      "target_high": 244.08,
+      "rr": 2.27,
+      "score": 61,
+      "rsi": 58.9,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 59 in healthy momentum zone"
+      ]
+    },
+    {
+      "symbol": "JUNIORBEES",
+      "name": "Nippon India ETF Junior BeES",
+      "scan": "ema20_pullback",
+      "price": 759.219970703125,
+      "entry": 759.22,
+      "stop_loss": 741.37,
+      "target_low": 797.18,
+      "target_high": 873.1,
+      "rr": 2.13,
+      "score": 61,
+      "rsi": 61.1,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 61 in healthy momentum zone"
+      ]
+    },
+    {
+      "symbol": "MID150BEES",
+      "name": "Nippon India ETF Nifty Midcap 150",
+      "scan": "ema20_pullback",
+      "price": 228.69000244140625,
+      "entry": 228.69,
+      "stop_loss": 223.18,
+      "target_low": 240.12,
+      "target_high": 262.99,
+      "rr": 2.07,
+      "score": 61,
+      "rsi": 61.0,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 61 in healthy momentum zone"
+      ]
+    },
+    {
+      "symbol": "AUROPHARMA",
+      "name": "Aurobindo Pharma Limited",
+      "scan": "ema20_pullback",
+      "price": 1376.0,
+      "entry": 1376.0,
+      "stop_loss": 1356.68,
+      "target_low": 1444.8,
+      "target_high": 1582.4,
+      "rr": 3.56,
+      "score": 55,
+      "rsi": 54.4,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 54 in healthy momentum zone"
+      ]
+    },
+    {
+      "symbol": "JSL",
+      "name": "Jindal Stainless Limited",
+      "scan": "ema20_pullback",
+      "price": 778.4000244140625,
+      "entry": 778.4,
+      "stop_loss": 759.73,
+      "target_low": 817.32,
+      "target_high": 895.16,
+      "rr": 2.08,
+      "score": 55,
+      "rsi": 55.3,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 55 in healthy momentum zone"
+      ]
+    },
+    {
+      "symbol": "BHARATFORG",
+      "name": "Bharat Forge Limited",
+      "scan": "ema20_pullback",
+      "price": 1845.800048828125,
+      "entry": 1845.8,
+      "stop_loss": 1822.54,
+      "target_low": 1938.09,
+      "target_high": 2122.67,
+      "rr": 3.97,
+      "score": 51,
+      "rsi": 53.3,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "RSI 53 in healthy momentum zone"
+      ]
+    },
+    {
+      "symbol": "MUFIN",
+      "name": "Mufin Green Finance Ltd",
+      "scan": "ema20_pullback",
+      "price": 114.30999755859375,
+      "entry": 114.31,
+      "stop_loss": 112.05,
+      "target_low": 120.03,
+      "target_high": 131.46,
+      "rr": 2.53,
+      "score": 51,
+      "rsi": 57.8,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "RSI 58 in healthy momentum zone"
+      ]
+    }
+  ]
+}

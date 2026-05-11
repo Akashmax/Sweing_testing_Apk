@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pandas
+numpy
+yfinance
+python-dotenv
+schedule
+twilio
+tabulate
+urllib3

@@ -1,0 +1,200 @@
+{
+  "ts": "2026-05-11T21:15:16",
+  "raw_count": 423,
+  "picks": [
+    {
+      "symbol": "IPCALAB",
+      "name": "Ipca Laboratories Limited",
+      "scan": "ema20_pullback",
+      "price": 1535.0,
+      "entry": 1535.0,
+      "stop_loss": 1506.03,
+      "target_low": 1611.75,
+      "target_high": 1765.25,
+      "rr": 2.65,
+      "score": 76,
+      "rsi": 53.6,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 54 in healthy momentum zone",
+        "Volume 2.7x avg \u2014 strong accumulation"
+      ]
+    },
+    {
+      "symbol": "TATASTEEL",
+      "name": "Tata Steel Limited",
+      "scan": "ema20_pullback+vcp_squeeze",
+      "price": 212.0800018310547,
+      "entry": 212.08,
+      "stop_loss": 208.4,
+      "target_low": 222.68,
+      "target_high": 243.89,
+      "rr": 2.88,
+      "score": 60,
+      "rsi": 54.7,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 55 in healthy momentum zone",
+        "Confirmed across 2 scans"
+      ]
+    },
+    {
+      "symbol": "ANANDRATHI",
+      "name": "Anand Rathi Wealth Ltd",
+      "scan": "ema20_pullback+vcp_squeeze",
+      "price": 3580.199951171875,
+      "entry": 3580.2,
+      "stop_loss": 3515.04,
+      "target_low": 3759.21,
+      "target_high": 4117.23,
+      "rr": 2.75,
+      "score": 60,
+      "rsi": 62.2,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 62 in healthy momentum zone",
+        "Confirmed across 2 scans"
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "name": "Jsw Steel Limited",
+      "scan": "ema20_pullback+vcp_squeeze",
+      "price": 1262.5999755859375,
+      "entry": 1262.6,
+      "stop_loss": 1239.57,
+      "target_low": 1325.73,
+      "target_high": 1451.99,
+      "rr": 2.74,
+      "score": 60,
+      "rsi": 55.2,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 55 in healthy momentum zone",
+        "Confirmed across 2 scans"
+      ]
+    },
+    {
+      "symbol": "PRUDENT",
+      "name": "Prudent Corporate Advisory Services Ltd",
+      "scan": "ema20_pullback",
+      "price": 2742.699951171875,
+      "entry": 2742.7,
+      "stop_loss": 2681.53,
+      "target_low": 2879.83,
+      "target_high": 3154.1,
+      "rr": 2.24,
+      "score": 60,
+      "rsi": 54.0,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "RSI 54 in healthy momentum zone",
+        "Volume 3.7x avg \u2014 strong accumulation"
+      ]
+    },
+    {
+      "symbol": "JSWENERGY",
+      "name": "Jsw Energy Limited",
+      "scan": "ema20_pullback",
+      "price": 556.6500244140625,
+      "entry": 556.65,
+      "stop_loss": 546.5,
+      "target_low": 584.48,
+      "target_high": 640.15,
+      "rr": 2.74,
+      "score": 59,
+      "rsi": 55.8,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 56 in healthy momentum zone"
+      ]
+    },
+    {
+      "symbol": "GLENMARK",
+      "name": "Glenmark Pharmaceuticals Limited",
+      "scan": "ema20_pullback",
+      "price": 2347.300048828125,
+      "entry": 2347.3,
+      "stop_loss": 2304.22,
+      "target_low": 2464.67,
+      "target_high": 2699.4,
+      "rr": 2.72,
+      "score": 59,
+      "rsi": 57.7,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 58 in healthy momentum zone"
+      ]
+    },
+    {
+      "symbol": "HDFCAMC",
+      "name": "HDFC Asset Management Company Ltd",
+      "scan": "ema20_pullback",
+      "price": 2747.199951171875,
+      "entry": 2747.2,
+      "stop_loss": 2690.18,
+      "target_low": 2884.56,
+      "target_high": 3159.28,
+      "rr": 2.41,
+      "score": 59,
+      "rsi": 54.2,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 54 in healthy momentum zone"
+      ]
+    },
+    {
+      "symbol": "JUNIORBEES",
+      "name": "Nippon India ETF Junior BeES",
+      "scan": "ema20_pullback",
+      "price": 758.9000244140625,
+      "entry": 758.9,
+      "stop_loss": 741.37,
+      "target_low": 796.85,
+      "target_high": 872.74,
+      "rr": 2.17,
+      "score": 59,
+      "rsi": 56.3,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 56 in healthy momentum zone"
+      ]
+    },
+    {
+      "symbol": "STARHEALTH",
+      "name": "Star Health & Allied Insurance Company Ltd",
+      "scan": "ema20_pullback",
+      "price": 515.9500122070312,
+      "entry": 515.95,
+      "stop_loss": 509.44,
+      "target_low": 541.75,
+      "target_high": 593.34,
+      "rr": 3.96,
+      "score": 55,
+      "rsi": 59.6,
+      "notes": [
+        "Market Regime: Nifty below 50 EMA (Caution)",
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 60 in healthy momentum zone"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "ts": "2026-05-07T22:28:00",
+  "raw_count": 616,
+  "picks": [
+    {
+      "symbol": "GOLDBEES",
+      "name": "Nippon India ETF Gold Bees",
+      "scan": "ema20_pullback",
+      "price": 124.47000122070312,
+      "entry": 124.47,
+      "stop_loss": 121.38,
+      "target_low": 130.69,
+      "target_high": 143.14,
+      "rr": 2.01,
+      "score": 85,
+      "rsi": 52.2,
+      "notes": [
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 52 in healthy momentum zone",
+        "Fresh MACD bullish cross"
+      ]
+    },
+    {
+      "symbol": "TATACONSUM",
+      "name": "TATA Consumer Products Ltd",
+      "scan": "ema20_pullback",
+      "price": 1151.699951171875,
+      "entry": 1151.7,
+      "stop_loss": 1129.92,
+      "target_low": 1209.28,
+      "target_high": 1324.45,
+      "rr": 2.64,
+      "score": 75,
+      "rsi": 57.3,
+      "notes": [
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 57 in healthy momentum zone"
+      ]
+    },
+    {
+      "symbol": "ENRIN",
+      "name": "Siemens Energy India Ltd",
+      "scan": "ema20_pullback",
+      "price": 3139.5,
+      "entry": 3139.5,
+      "stop_loss": 3114.35,
+      "target_low": 3296.48,
+      "target_high": 3610.42,
+      "rr": 6.24,
+      "score": 69,
+      "rsi": 56.1,
+      "notes": [
+        "Above 200 EMA (long-term uptrend)",
+        "RSI 56 in healthy momentum zone"
+      ]
+    },
+    {
+      "symbol": "POWERGRID",
+      "name": "Power Grid Corporation Of India Limited",
+      "scan": "ema20_pullback",
+      "price": 313.79998779296875,
+      "entry": 313.8,
+      "stop_loss": 310.94,
+      "target_low": 329.49,
+      "target_high": 360.87,
+      "rr": 5.48,
+      "score": 67,
+      "rsi": 53.6,
+      "notes": [
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 54 in healthy momentum zone"
+      ]
+    },
+    {
+      "symbol": "DMART",
+      "name": "Avenue Supermarts Ltd",
+      "scan": "vcp_squeeze",
+      "price": 4386.5,
+      "entry": 4386.5,
+      "stop_loss": 4281.48,
+      "target_low": 4605.82,
+      "target_high": 5044.47,
+      "rr": 2.09,
+      "score": 67,
+      "rsi": 50.3,
+      "notes": [
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI 50 in healthy momentum zone"
+      ]
+    },
+    {
+      "symbol": "LIQUID1",
+      "name": "Kotak Nifty 1D Rate Liquid ETF",
+      "scan": "vcp_squeeze",
+      "price": 1103.0899658203125,
+      "entry": 1103.09,
+      "stop_loss": 1100.8,
+      "target_low": 1158.24,
+      "target_high": 1268.55,
+      "rr": 24.09,
+      "score": 60,
+      "rsi": NaN,
+      "notes": [
+        "Above 200 EMA (long-term uptrend)",
+        "Bollinger Band Squeeze (VCP)",
+        "RSI nan \u2014 outside ideal 50-70 band"
+      ]
+    }
+  ]
+}

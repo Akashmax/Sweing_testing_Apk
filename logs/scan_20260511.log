@@ -1,0 +1,122 @@
+2026-05-11 21:11:05,269 [INFO] main: === Swing scan starting ===
+2026-05-11 21:11:06,318 [INFO] chartink_scanner: Chartink scan 'momentum_breakout' returned 62 rows
+2026-05-11 21:11:06,859 [INFO] chartink_scanner: Chartink scan 'macd_bullish_cross' returned 21 rows
+2026-05-11 21:11:07,220 [INFO] chartink_scanner: Chartink scan 'ema20_pullback' returned 212 rows
+2026-05-11 21:11:07,432 [INFO] chartink_scanner: Chartink scan 'near_52w_high_breakout' returned 26 rows
+2026-05-11 21:11:07,647 [INFO] chartink_scanner: Chartink scan 'volume_spike_bull' returned 49 rows
+2026-05-11 21:11:07,961 [INFO] chartink_scanner: Chartink scan 'vcp_squeeze' returned 53 rows
+2026-05-11 21:11:07,961 [INFO] main: Total raw hits: 423
+2026-05-11 21:11:07,964 [INFO] main: After dedupe: 340 unique candidates
+2026-05-11 21:11:10,843 [WARNING] analyzer: Nifty 50 is below 50 EMA. Market regime is weak.
+2026-05-11 21:11:11,593 [INFO] analyzer: No OHLC for JSWDULUX, skipping
+2026-05-11 21:11:53,016 [INFO] analyzer: No OHLC for GROWWHOSPI, skipping
+2026-05-11 21:12:02,854 [ERROR] yfinance: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: CNXNIFTYJUNIOR.NS"}}}
+2026-05-11 21:12:04,603 [ERROR] yfinance: $CNXNIFTYJUNIOR.NS: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:04,610 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:12:04,610 [ERROR] yfinance: ['CNXNIFTYJUNIOR.NS']: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:04,612 [INFO] analyzer: No OHLC for CNXNIFTYJUNIOR, skipping
+2026-05-11 21:12:05,071 [ERROR] yfinance: $CNXMIDCAP.NS: possibly delisted; no price data found  (period=9mo)
+2026-05-11 21:12:05,076 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:12:05,077 [ERROR] yfinance: ['CNXMIDCAP.NS']: possibly delisted; no price data found  (period=9mo)
+2026-05-11 21:12:05,079 [INFO] analyzer: No OHLC for CNXMIDCAP, skipping
+2026-05-11 21:12:05,781 [ERROR] yfinance: $CNXENERGY.NS: possibly delisted; no price data found  (period=9mo)
+2026-05-11 21:12:05,790 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:12:05,790 [ERROR] yfinance: ['CNXENERGY.NS']: possibly delisted; no price data found  (period=9mo)
+2026-05-11 21:12:05,792 [INFO] analyzer: No OHLC for CNXENERGY, skipping
+2026-05-11 21:12:08,311 [ERROR] yfinance: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: NIFTY100EQLWGT.NS"}}}
+2026-05-11 21:12:09,690 [ERROR] yfinance: $NIFTY100EQLWGT.NS: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:09,697 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:12:09,697 [ERROR] yfinance: ['NIFTY100EQLWGT.NS']: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:09,699 [INFO] analyzer: No OHLC for NIFTY100EQLWGT, skipping
+2026-05-11 21:12:13,084 [ERROR] yfinance: $NIFTY50EQLWGT.NS: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:13,092 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:12:13,092 [ERROR] yfinance: ['NIFTY50EQLWGT.NS']: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:13,094 [INFO] analyzer: No OHLC for NIFTY50EQLWGT, skipping
+2026-05-11 21:12:13,736 [ERROR] yfinance: $CNXMNC.NS: possibly delisted; no price data found  (period=9mo)
+2026-05-11 21:12:13,746 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:12:13,746 [ERROR] yfinance: ['CNXMNC.NS']: possibly delisted; no price data found  (period=9mo)
+2026-05-11 21:12:13,748 [INFO] analyzer: No OHLC for CNXMNC, skipping
+2026-05-11 21:12:14,927 [INFO] analyzer: No OHLC for NIFTY200MOMENTM30, skipping
+2026-05-11 21:12:15,989 [ERROR] yfinance: $NIFTYAUTO.NS: possibly delisted; no price data found  (period=9mo)
+2026-05-11 21:12:15,998 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:12:15,998 [ERROR] yfinance: ['NIFTYAUTO.NS']: possibly delisted; no price data found  (period=9mo)
+2026-05-11 21:12:16,000 [INFO] analyzer: No OHLC for NIFTYAUTO, skipping
+2026-05-11 21:12:18,989 [ERROR] yfinance: $NIFTY200ALPHA30.NS: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:18,991 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:12:18,991 [ERROR] yfinance: ['NIFTY200ALPHA30.NS']: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:18,993 [INFO] analyzer: No OHLC for NIFTY200ALPHA30, skipping
+2026-05-11 21:12:23,977 [ERROR] yfinance: $NIFTYLARGEMID250.NS: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:23,987 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:12:23,987 [ERROR] yfinance: ['NIFTYLARGEMID250.NS']: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:23,989 [INFO] analyzer: No OHLC for NIFTYLARGEMID250, skipping
+2026-05-11 21:12:26,820 [ERROR] yfinance: $NIFTY500MULTICAP.NS: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:26,829 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:12:26,830 [ERROR] yfinance: ['NIFTY500MULTICAP.NS']: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:26,832 [INFO] analyzer: No OHLC for NIFTY500MULTICAP, skipping
+2026-05-11 21:12:29,800 [ERROR] yfinance: $NIFTYINDIAMFG.NS: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:29,803 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:12:29,803 [ERROR] yfinance: ['NIFTYINDIAMFG.NS']: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:29,805 [INFO] analyzer: No OHLC for NIFTYINDIAMFG, skipping
+2026-05-11 21:12:32,597 [ERROR] yfinance: $NIFTYMULTIINFRA.NS: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:32,597 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:12:32,597 [ERROR] yfinance: ['NIFTYMULTIINFRA.NS']: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:32,599 [INFO] analyzer: No OHLC for NIFTYMULTIINFRA, skipping
+2026-05-11 21:12:35,220 [ERROR] yfinance: $NIFTYMETAL.NS: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:35,223 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:12:35,223 [ERROR] yfinance: ['NIFTYMETAL.NS']: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:35,225 [INFO] analyzer: No OHLC for NIFTYMETAL, skipping
+2026-05-11 21:12:35,878 [ERROR] yfinance: $CNXPSE.NS: possibly delisted; no price data found  (period=9mo)
+2026-05-11 21:12:35,886 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:12:35,886 [ERROR] yfinance: ['CNXPSE.NS']: possibly delisted; no price data found  (period=9mo)
+2026-05-11 21:12:35,888 [INFO] analyzer: No OHLC for CNXPSE, skipping
+2026-05-11 21:12:38,715 [ERROR] yfinance: $NIFTYCOMMODITIES.NS: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:38,718 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:12:38,719 [ERROR] yfinance: ['NIFTYCOMMODITIES.NS']: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:38,721 [INFO] analyzer: No OHLC for NIFTYCOMMODITIES, skipping
+2026-05-11 21:12:50,452 [ERROR] yfinance: $NIFTYGS48YR.NS: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:50,460 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:12:50,461 [ERROR] yfinance: ['NIFTYGS48YR.NS']: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:12:50,463 [INFO] analyzer: No OHLC for NIFTYGS48YR, skipping
+2026-05-11 21:13:02,681 [INFO] analyzer: No OHLC for BHARATBOND-APR30, skipping
+2026-05-11 21:13:09,699 [INFO] analyzer: No OHLC for BHARATBOND-APR31, skipping
+2026-05-11 21:13:15,059 [INFO] analyzer: No OHLC for BHARATBOND-APR32, skipping
+2026-05-11 21:13:18,245 [INFO] analyzer: No OHLC for BHARATBOND-APR33, skipping
+2026-05-11 21:13:20,521 [INFO] analyzer: No OHLC for TRANSPEK, skipping
+2026-05-11 21:13:51,478 [INFO] analyzer: No OHLC for RMC, skipping
+2026-05-11 21:14:16,432 [ERROR] yfinance: $NIFTY50PR1XINV.NS: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:14:16,436 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:14:16,437 [ERROR] yfinance: ['NIFTY50PR1XINV.NS']: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:14:16,439 [INFO] analyzer: No OHLC for NIFTY50PR1XINV, skipping
+2026-05-11 21:14:23,286 [ERROR] yfinance: $NIFTY50TR1XINV.NS: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:14:23,296 [ERROR] yfinance: 
+1 Failed download:
+2026-05-11 21:14:23,296 [ERROR] yfinance: ['NIFTY50TR1XINV.NS']: possibly delisted; no price data found  (period=9mo) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-11 21:14:23,299 [INFO] analyzer: No OHLC for NIFTY50TR1XINV, skipping
+2026-05-11 21:14:28,568 [INFO] analyzer: No OHLC for INA, skipping
+2026-05-11 21:14:29,331 [INFO] analyzer: No OHLC for HSBCGOLD, skipping
+2026-05-11 21:14:31,141 [INFO] analyzer: No OHLC for GAUDIUMIVF, skipping
+2026-05-11 21:14:34,158 [INFO] analyzer: No OHLC for GROWWPSE, skipping
+2026-05-11 21:14:41,298 [INFO] analyzer: No OHLC for DCMSIL, skipping
+2026-05-11 21:14:43,422 [INFO] analyzer: No OHLC for SBIMIDMOM, skipping
+2026-05-11 21:15:16,295 [INFO] main: Picks after technical filter: 10
+2026-05-11 21:15:16,298 [INFO] main: Snapshot written: D:\FinalProject\2026_project\TestingStock\TestingStock\cache\picks_20260511_2115.json
+2026-05-11 21:15:16,299 [INFO] main: Saved text output to D:\FinalProject\2026_project\TestingStock\TestingStock\stock_picks.txt
+2026-05-11 21:15:16,299 [INFO] main: Dry-run — printing message instead of sending
+2026-05-11 21:15:16,300 [INFO] main: === Swing scan finished ===
