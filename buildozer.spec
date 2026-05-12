@@ -20,7 +20,7 @@ version = 1.0
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy==2.3.0,requests,beautifulsoup4,pandas,numpy,yfinance,python-dotenv,schedule,twilio,tabulate,urllib3
+requirements = python3,hostpython3,kivy==2.3.0,requests,beautifulsoup4,pandas,numpy,yfinance,python-dotenv,schedule,twilio,tabulate,urllib3,lxml,openssl,libffi
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
